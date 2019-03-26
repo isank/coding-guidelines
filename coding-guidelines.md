@@ -12,7 +12,7 @@
 
 ## Spring
 
-- Use `constructor` based `injection` over `field` based 'injections`.
+- Use `constructor` based `injection` over `field` based `injection`.
 
 - Use `configuration properties` instead of `@value`.
 
